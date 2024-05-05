@@ -24,8 +24,8 @@ Authors@R: c(
   person(given = "Shiwei", family = "Zheng", email = "szheng@nygenome.org", role = "ctb", comment = c(ORCID = "0000-0001-6682-6743")),
   person("Satija Lab and Collaborators", role = "fnd")
   )
-URL: https://satijalab.org/seurat, https://github.com/satijalab/seurat
-BugReports: https://github.com/satijalab/seurat/issues
+URL: https://github.com/lifesunny/xiaopangSeurat
+BugReports: https://github.comlifesunny/xiaopangSeurat/issues
 Depends:
     R (>= 4.0.0),
     methods
